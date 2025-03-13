@@ -1,7 +1,39 @@
-# Financial-Chatbot
-Finance RAG+ LLM+ AI Agent assistant Chatbot
 
-### What kind of model I will choose in this project?
-1. Vector DB - FAISS
-2. LLM model - openAI
-3. Embedding model - upstage (because of the cost)
+---
+
+# 💰 Financial-Chatbot  
+> **Finance RAG + LLM + AI Agent Assistant Chatbot**  
+> **Development Period**: 2025.03.11~2025.09.01
+
+---
+
+## 🎯 프로젝트 목표  
+
+1. **재무 정보에 대한 쉽고 빠른 접근**  
+   - 사용자가 금융 및 재무 관련 질문을 하면 즉시 관련된 정보를 제공.  
+
+2. **AI 기반 자동화된 금융 비서**  
+   - RAG (Retrieval-Augmented Generation)와 LLM (Large Language Model)을 활용하여 개인 맞춤형 금융 상담 및 정보 제공.  
+
+3. **비용 효율적인 AI 서비스 구축**  
+   - 성능과 비용을 모두 고려한 모델 및 인프라 설계.  
+
+---
+
+## ⚙️ 기술 스택 및 모델 구성  
+
+| 목적                     | 사용 기술 (모델)                  | 비고                         |
+|------------------------|------------------------------|----------------------------|
+| **벡터 데이터베이스**       | FAISS                         | 빠른 데이터 검색용               |
+| **LLM (대형 언어 모델)**  | OpenAI GPT                    | 자연어 이해 및 응답 생성          |
+| **임베딩 모델**           | Upstage                       | 한국어 임베딩 및 비용 절감 목적     |
+
+---
+
+## ✅ 기대 효과  
+
+- **실시간 금융 정보 및 상담 제공**  
+- **AI 기반 맞춤형 금융 정보 서비스**  
+- **비용 대비 높은 성능의 챗봇 시스템 구축**  
+
+
